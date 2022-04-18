@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url(./Sources/Comfortaa-Light.ttf);
+}
+body{
+    background: linear-gradient(to right, #799F0C, #FFE000); 
+    margin: 0;
+    padding: 0;
+}
+.GBody{
+    font-family: Comfortaa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.GScore{
+    font-size: 120px;
+}
